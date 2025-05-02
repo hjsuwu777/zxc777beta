@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zxc777beta
+- I'm from VietNam
+- 👀 I’m interested in Plugin Minecraft
+- 🌱 I’m currently learning Code Java Plugins
+- My project https://discord.com/invite/wjFC24CZyZ
